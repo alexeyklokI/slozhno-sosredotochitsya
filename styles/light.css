@@ -24,9 +24,6 @@
   display: none;
 } 
 
-.theme_auto .heder__decor {
-  display: none;
-}
 
 
 @media (prefers-color-scheme: light) {
@@ -40,10 +37,7 @@
   --decor-color: #FF8DCB;
   --menu-color: rgba(50, 49, 45, 0.4);
   --backgrond-color: #fff1f7;
-  }
-  .theme_light .heder__decor {
-    display: none;
-  }
+  } 
 
   .theme_auto .heder__decor {
     display: none;

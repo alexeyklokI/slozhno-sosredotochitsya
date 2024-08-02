@@ -13,7 +13,8 @@
   --decor-color: #ff0070;
   --text-color: #F1B2CE;
   --title-color: #db00ff;
-  --dark: #000028;
+  --backgrond-color: #000028;
+  --decor-text-color: var(--backgrond-color);
   --font-family: "IBM Plex Mono", sans-serif;
   --shadow-color: var(--accent-color);
   --menu-color: rgba(255, 0, 112, 0.4);
